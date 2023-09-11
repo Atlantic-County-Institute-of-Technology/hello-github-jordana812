@@ -1,4 +1,5 @@
-# :wave: The Basics of GitHub 
+# :wave: Jordan Arrington
+# Hi, I'm a little confused.
 
 ## 🤓 Course overview and learning outcomes 
 
