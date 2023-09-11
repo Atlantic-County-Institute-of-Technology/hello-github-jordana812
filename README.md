@@ -1,5 +1,5 @@
 # :wave: Jordan Arrington
-hi
+hi, im a little confused
 
 ## 🤓 Course overview and learning outcomes 
 
